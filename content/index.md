@@ -1,10 +1,10 @@
 ---
-title: Writing as a clearly thinking
-description: my personal thoughts about writing
+title: writing as a search query
+description: an introduction about myself
 draft: false
 tags:
-  - write
-  - thought
+  - Introduction
 date: 2024-09-03
+aliases:
 ---
-When you get confused, write it down.
+
